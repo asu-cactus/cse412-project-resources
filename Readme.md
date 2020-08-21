@@ -19,7 +19,7 @@ The missing semester is a course at MIT which focuses one critical subject of CS
 - [Security and Cryptography](https://missing.csail.mit.edu/2020/security/)
 - [Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
 
-# Postgres Based Hackathon 
+# Postgres Based Wargame 
 
 ## [SchemaVerse](https://schemaverse.com/tutorial/tutorial.php?page=Introduction)
 
