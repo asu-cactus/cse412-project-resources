@@ -45,4 +45,5 @@ The missing semester is a course at MIT which focuses one critical subject of CS
 - https://github.com/dbs/postgresql-full-text-search-engine
 - https://github.com/dushan14/books-store
 - https://github.com/jai-singhal/croma
+- https://github.com/mateo100/Taxi-App
 
