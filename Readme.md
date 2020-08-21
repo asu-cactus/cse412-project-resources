@@ -19,6 +19,16 @@ The missing semester is a course at MIT which focuses one critical subject of CS
 - [Security and Cryptography](https://missing.csail.mit.edu/2020/security/)
 - [Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
 
+# Postgres Based Hackathon 
+
+## [SchemaVerse](https://schemaverse.com/tutorial/tutorial.php?page=Introduction)
+
+The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database. Compete against other players using raw SQL commands to command your fleet. Or, if your PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself! 
+
+Game is played by connected Postgres Database Client to their server.
+
+- Register for the Game [Here](https://schemaverse.com/tutorial/tutorial.php?page=Registration)
+
 # Holy Grail For Finding Anything Postgres 
 
 - https://github.com/dhamaniasad/awesome-postgres
