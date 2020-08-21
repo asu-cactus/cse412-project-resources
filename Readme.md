@@ -23,10 +23,6 @@ The missing semester is a course at MIT which focuses one critical subject of CS
 
 - https://github.com/dhamaniasad/awesome-postgres
 
-# Postgres Resources 
-
-- [Postgres Database Samples](https://github.com/morenoh149/postgresDBSamples)
-
 ## Langauge Specific Libraries for Postgres
 
 - https://github.com/dhamaniasad/awesome-postgres#language-bindings
