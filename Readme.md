@@ -8,16 +8,16 @@ The missing semester is a course at MIT which focuses one critical subject of CS
 
 ## Course Links For Various General Topics
 
-[the shell](https://missing.csail.mit.edu/2020/course-shell/)
-[Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
-[Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
-[Data Wrangling](https://missing.csail.mit.edu/2020/data-wrangling/)
-[Command-line Environment](https://missing.csail.mit.edu/2020/command-line/)
-[Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
-[Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/)
-[Metaprogramming](https://missing.csail.mit.edu/2020/metaprogramming/)
-[Security and Cryptography](https://missing.csail.mit.edu/2020/security/)
-[Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
+- [the shell](https://missing.csail.mit.edu/2020/course-shell/)
+- [Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
+- [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
+- [Data Wrangling](https://missing.csail.mit.edu/2020/data-wrangling/)
+- [Command-line Environment](https://missing.csail.mit.edu/2020/command-line/)
+- [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/)
+- [Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/)
+- [Metaprogramming](https://missing.csail.mit.edu/2020/metaprogramming/)
+- [Security and Cryptography](https://missing.csail.mit.edu/2020/security/)
+- [Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
 
 # Holy Grail For Finding Anything Postgres 
 
